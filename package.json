@@ -1,0 +1,30 @@
+{
+    "name": "eslint-config-0x7844",
+    "version": "1.0.0",
+    "description": "ESLint rules for 0x7844 projects.",
+    "main": "rules.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/0x7844/eslint-config-0x7844.git"
+    },
+    "keywords": [
+        "eslint",
+        "eslint-config",
+        "0x7844"
+    ],
+    "author": "0x7844",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/0x7844/eslint-config-0x7844/issues"
+    },
+    "homepage": "https://github.com/0x7844/eslint-config-0x7844#readme",
+    "devDependencies": {
+        "eslint": "^8.27.0"
+    },
+    "peerDependencies": {
+        "eslint": "^8.27.0"
+    }
+}
