@@ -1,5 +1,5 @@
 {
-    "name": "eslint-config-0x7844",
+    "name": "eslint-config-0xd",
     "version": "1.0.0",
     "description": "ESLint rules for 0x7844 projects.",
     "main": "rules.js",
@@ -25,6 +25,6 @@
         "eslint": "^8.27.0"
     },
     "peerDependencies": {
-        "eslint": "^8.27.0"
+        "eslint": ">= 8"
     }
 }
