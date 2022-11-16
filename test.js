@@ -22,7 +22,7 @@ function func( n ) {
     loop: `
 for ( let i = 0; i < 10; i++ ) {
 
-    console.log( !( i % 3 ) ? 'Fizz' : '' ) + !( i % 5 ) ? 'Buzz' : '' + i;
+    console.log( ( !( i % 3 ) ? 'Fizz' : '' ) + ( !( i % 5 ) ? 'Buzz' : '' ) + i );
 
 }
 `,
