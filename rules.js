@@ -2,7 +2,7 @@ module.exports = {
     env: {
         browser: true,
         node: true,
-        es6: true,
+        es2021: true,
     },
     rules: {
         'array-bracket-newline': [
