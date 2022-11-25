@@ -32,7 +32,7 @@ if ( ~( 2 ** 32 - 1 ) ) {
 
     console.log( 'ඞ' );
 
-} else if ( ~( 2 ** 64 - 1 ) ) { // exceeds Number.MAX_SAFE_INTEGER
+} else if ( ~( 2 ** 64 - 1 ) < Number.MAX_SAFE_INTEGER )
 
     console.log( '???' );
 
