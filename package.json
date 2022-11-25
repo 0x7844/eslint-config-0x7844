@@ -4,7 +4,8 @@
     "description": "ESLint rules for 0x7844 projects.",
     "main": "rules.js",
     "scripts": {
-        "test": "node test.js"
+        "test": "node test.js",
+        "preversion": "npm run test"
     },
     "repository": {
         "type": "git",
