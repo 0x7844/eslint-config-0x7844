@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-0xd",
-    "version": "1.0.4-0",
+    "version": "1.0.5-0",
     "description": "ESLint rules for 0x7844 projects.",
     "main": "rules.js",
     "scripts": {
